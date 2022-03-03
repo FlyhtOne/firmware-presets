@@ -1,0 +1,11 @@
+#$ TITLE: FlyhtONE TBS SourceONE V1 Rates
+#$ FIRMWARE_VERSION: 4.2
+#$ CATEGORY: RATES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: freestyle, cinematic
+#$ AUTHOR: Chris Ward
+#$ DESCRIPTION: Cinematic and freestyle rates by FlyhtONE.
+#$ DESCRIPTION: TBS SourceONE V1 FlyhtONE Rates.
+#$ INCLUDE: presets/4.3/rates/defaults.txt
+
+set rates_type = KISS

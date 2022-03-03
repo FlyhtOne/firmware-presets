@@ -134,6 +134,7 @@
   },
   "uniqueValues": {
     "firmware_version": [
+      "4.2",
       "4.3"
     ],
     "category": [
@@ -149,6 +150,7 @@
     ],
     "author": [
       "Betaflight",
+      "Chris Ward",
       "ctzsnooze",
       "sugarK",
       "UAV Tech (Mark Spatz)"
@@ -164,6 +166,7 @@
       "aux",
       "basic",
       "cfv2",
+      "cinematic",
       "clear",
       "crossfire",
       "CRSF",
@@ -306,6 +309,22 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/rates/FlyhtONE.txt",
+      "hash": "fd8745b17c5fa1cd0700c84411dfafc86da10cc413b15f804db7c6dae4431149",
+      "title": "FlyhtONE TBS SourceONE V1 Rates",
+      "firmware_version": [
+        "4.2"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "freestyle",
+        "cinematic"
+      ],
+      "author": "Chris Ward",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.3/rc_link/defaults.txt",
