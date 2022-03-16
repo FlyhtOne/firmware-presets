@@ -1,0 +1,14 @@
+#$ TITLE: Enable GPS
+#$ FIRMWARE_VERSION: 4.2
+#$ CATEGORY: OTHER
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: Setup, Enable, GPS
+#$ AUTHOR: FlyhtONE
+#$ DESCRIPTION: Enables GPS.
+#$ DESCRIPTION: Setups up GPS on my standard builds.
+
+set gps_provider = UBLOX
+set gps_auto_baud = ON
+set gps_ublox_use_galileo = ON
+
+feature -GPS
