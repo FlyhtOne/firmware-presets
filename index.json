@@ -142,6 +142,7 @@
       "LEDS",
       "MODES",
       "OSD",
+      "OTHER",
       "RATES",
       "RC_LINK",
       "RC_SMOOTHING",
@@ -152,6 +153,7 @@
       "Betaflight",
       "Chris Ward",
       "ctzsnooze",
+      "FlyhtONE",
       "sugarK",
       "UAV Tech (Mark Spatz)"
     ],
@@ -174,6 +176,7 @@
       "defaults",
       "DJI",
       "ELRS",
+      "Enable",
       "express",
       "feedforward",
       "ff",
@@ -183,6 +186,7 @@
       "frsky",
       "ghost",
       "GHST",
+      "GPS",
       "immersion",
       "immersionRC",
       "IRC",
@@ -209,6 +213,7 @@
       "reset",
       "sbus",
       "SBUS fast",
+      "Setup",
       "soild250",
       "switch",
       "TBS",
@@ -294,6 +299,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/enable_gps.txt",
+      "hash": "52826e03b4633b347823f0310966ce4374667d00ccb09db69bb4a550d1f80f7d",
+      "title": "Enable GPS",
+      "firmware_version": [
+        "4.2"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "Setup",
+        "Enable",
+        "GPS"
+      ],
+      "author": "FlyhtONE",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/rates/defaults.txt",
       "hash": "9d063433102e8340d3d0ad396f6dc998c7030c0b9ecc4bb2a6c5b86a5def07fe",
       "title": "Default rates",
@@ -312,7 +334,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/FlyhtONE.txt",
-      "hash": "fd8745b17c5fa1cd0700c84411dfafc86da10cc413b15f804db7c6dae4431149",
+      "hash": "4212400109b3ab9d17792ca20e12d337f19435ad6fd732de0a0cbd248959d4e8",
       "title": "FlyhtONE TBS SourceONE V1 Rates",
       "firmware_version": [
         "4.2"
