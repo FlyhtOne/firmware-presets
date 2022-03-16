@@ -4,9 +4,6 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: FlyhtONE, TBS
 #$ AUTHOR: FlyhtONE
-
-#$ PARSER: MARKED
-
 #$ DESCRIPTION: Smooth tune for my TBS Source One V1
 #$ DESCRIPTION: Seems to work fine on other builds
 
