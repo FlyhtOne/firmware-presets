@@ -182,6 +182,7 @@
       "ff",
       "filter",
       "filters",
+      "FlyhtONE",
       "freestyle",
       "frsky",
       "ghost",
@@ -300,13 +301,13 @@
     },
     {
       "fullPath": "presets/4.3/other/enable_gps.txt",
-      "hash": "52826e03b4633b347823f0310966ce4374667d00ccb09db69bb4a550d1f80f7d",
+      "hash": "b579875e667054c04f3131edfbf54b01e6658b9fe4b07da23abb4b56a6bad8e8",
       "title": "Enable GPS",
       "firmware_version": [
         "4.2"
       ],
       "category": "OTHER",
-      "status": "OFFICIAL",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "Setup",
         "Enable",
@@ -721,6 +722,22 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/tune/FlyhtONE_S1_V1.txt",
+      "hash": "6db680485624b3c750bc4c1cd4b6ae05affab025bc2c6283c4d8f842f85af326",
+      "title": "FlyhtONE TBS Source One V1",
+      "firmware_version": [
+        "4.2"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "FlyhtONE",
+        "TBS"
+      ],
+      "author": "FlyhtONE",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
