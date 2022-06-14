@@ -1,10 +1,10 @@
-#$ TITLE: Default 4.3 Filter settings
+#$ TITLE: FlyhtOne Filter settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: FILTERS
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, filter, filters, reset
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets Filter settings to 4.3 defaults
+#$ AUTHOR: FlyhtOne
+#$ DESCRIPTION: FlyhtOne default filer settings.
 
 # -- Gyro lowpass filters --
 set gyro_lpf1_static_hz = 0
