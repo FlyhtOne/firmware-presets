@@ -5,7 +5,13 @@
 #$ KEYWORDS: FlyhtONE
 #$ AUTHOR: FlyhtONE
 #$ DESCRIPTION: Smooth base tune
-#$ DESCRIPTION: Seems to work fine on other builds
+#$ DESCRIPTION: You need to go into BLHeli 32 and configure the following do not use on BLHeli-S
+#$ DESCRIPTION: Rampup Power = 30%
+#$ DESCRIPTION: Motor Timing = 23 Degrees
+#$ DESCRIPTION: Minimum Throttle = 1010
+#$ DESCRIPTION: Maximum Throttle =1990
+#$ DESCRIPTION: PWM Frequency Low = 48khz
+#$ DESCRIPTION: PWM Frequency High = 48khz
 
 #$ OPTION BEGIN (UNCHECKED): DSHOT 300
 
