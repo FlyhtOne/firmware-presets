@@ -1,0 +1,11 @@
+#$ TITLE: Arming Angle
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: Arming Angle
+#$ AUTHOR: FlyhtONE
+#$ DESCRIPTION: Sets arming angle to 180 degrees.
+
+set small_angle = 180
+
+

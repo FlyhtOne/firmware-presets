@@ -164,6 +164,7 @@
       "666Hz",
       "actual",
       "adjustments",
+      "Arming Angle",
       "aux",
       "cfv2",
       "cinematic",
@@ -294,14 +295,29 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/arming_angle.txt",
+      "hash": "4cae6abf74a58cf366129b8c5484906c0d5198bb9fe524221dca83717d08c3ed",
+      "title": "Arming Angle",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "Arming Angle"
+      ],
+      "author": "FlyhtONE",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/craft_name.txt",
-      "hash": "a522affe0640b57d48405cc408f64394165fad36d2c5b7cb590218c66f9e27d1",
+      "hash": "6de971340183259e685fd841cff3d44cb75d8302d59f286dcc99735c450b095a",
       "title": "Craft Name",
       "firmware_version": [
         "4.3"
       ],
       "category": "OTHER",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Craft Name"
       ],
@@ -310,13 +326,13 @@
     },
     {
       "fullPath": "presets/4.3/other/enable_gps.txt",
-      "hash": "92fb235fd4e862eddbc0c1c56cf9728e4c733357b5d69a9195b93cbe34982c4f",
+      "hash": "765fb8e71b8fa81640d26138091cfaec18fbc58d8375d0a975350069eaecb0b0",
       "title": "Enable GPS",
       "firmware_version": [
         "4.3"
       ],
       "category": "OTHER",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Setup",
         "Enable",
