@@ -4,12 +4,14 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Setup, Enable, GPS
 #$ AUTHOR: FlyhtONE
-#$ DESCRIPTION: Enables GPS.
+#$ DESCRIPTION: Enables GPS and GPS Rescue.
 #$ DESCRIPTION: Setups up GPS on my standard builds.
 
 feature GPS
 
+set failsafe_procedure = GPS-RESCUE
 set gps_provider = UBLOX
+set gps_sbas_mode = AUTO
 set gps_auto_baud = ON
 set gps_ublox_use_galileo = ON
 
