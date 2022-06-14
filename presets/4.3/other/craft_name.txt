@@ -1,0 +1,12 @@
+#$ TITLE: Craft Name
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: Craft Name
+#$ AUTHOR: FlyhtONE
+#$ DESCRIPTION: Sets craft name to FlyhtONE.
+
+
+set name = FlyhtONE
+
+

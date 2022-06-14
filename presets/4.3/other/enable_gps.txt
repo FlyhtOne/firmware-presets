@@ -9,8 +9,11 @@
 
 feature GPS
 
+set failsafe_procedure = GPS-RESCUE
 set gps_provider = UBLOX
+set gps_sbas_mode = AUTO
 set gps_auto_baud = ON
 set gps_ublox_use_galileo = ON
+
 
 

@@ -145,7 +145,6 @@
       "OTHER",
       "RATES",
       "RC_LINK",
-      "RC_SMOOTHING",
       "TUNE",
       "VTX"
     ],
@@ -166,13 +165,12 @@
       "actual",
       "adjustments",
       "aux",
-      "basic",
       "cfv2",
       "cinematic",
       "clear",
+      "Craft Name",
       "crossfire",
       "CRSF",
-      "default",
       "defaults",
       "DJI",
       "ELRS",
@@ -198,7 +196,6 @@
       "modes",
       "normal",
       "OSD",
-      "pid",
       "purerace",
       "race",
       "race250",
@@ -207,9 +204,7 @@
       "rates",
       "rc",
       "rc link",
-      "rc smoothing",
       "rc_link",
-      "rc_smoothing",
       "Redpine",
       "reset",
       "sbus",
@@ -220,7 +215,6 @@
       "TBS",
       "tracer",
       "transmitter",
-      "tune",
       "vtx",
       "vtxtable"
     ]
@@ -300,8 +294,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/craft_name.txt",
+      "hash": "a522affe0640b57d48405cc408f64394165fad36d2c5b7cb590218c66f9e27d1",
+      "title": "Craft Name",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Craft Name"
+      ],
+      "author": "FlyhtONE",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/enable_gps.txt",
-      "hash": "b579875e667054c04f3131edfbf54b01e6658b9fe4b07da23abb4b56a6bad8e8",
+      "hash": "4b2b4fceaed7bc9ab14c2594ed1b14ccc02beca8b9fc8a043443deb399153a82",
       "title": "Enable GPS",
       "firmware_version": [
         "4.2"
@@ -686,46 +695,8 @@
       "priority": 10000000000
     },
     {
-      "fullPath": "presets/4.3/rc_smoothing/defaults.txt",
-      "hash": "c91b7b93cf4a33a15d606a827e983f67441ac78a9b9a11f8ecfb36d772d62739",
-      "title": "Default 4.3 RC smoothing settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_SMOOTHING",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "rc smoothing",
-        "rc_smoothing"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/tune/defaults.txt",
-      "hash": "a34613c8541c3bf5611d5d3596ece890b902fd8d2378e7f6a03b60a59b61230b",
-      "title": "Tune defaults for Basic 4.3 TUNES",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/tune/FlyhtONE_Defaults.txt",
-      "hash": "c138f7d5da818372380ee07852edca721158302fd6ec781299d4f2cce1206b67",
+      "hash": "56be3a5404c7b0fdbea4c7718fe998b874141983e718b917288f94fd543c8d37",
       "title": "FlyhtONE Base Defaults",
       "firmware_version": [
         "4.3"
@@ -734,22 +705,6 @@
       "status": "EXPERIMENTAL",
       "keywords": [
         "FlyhtONE"
-      ],
-      "author": "FlyhtONE",
-      "priority": 1000000000000
-    },
-    {
-      "fullPath": "presets/4.3/tune/FlyhtONE_S1_V1.txt",
-      "hash": "34c7b914a455ef43ead0de3905b6f9b743607d35e98ee29e3191f46754552fc4",
-      "title": "FlyhtONE TBS Source One V1",
-      "firmware_version": [
-        "4.2"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "FlyhtONE",
-        "TBS"
       ],
       "author": "FlyhtONE",
       "priority": 1000000000000
