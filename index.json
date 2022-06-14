@@ -240,6 +240,24 @@
       "priority": 100
     },
     {
+      "fullPath": "presets/4.3/filters/flyhtone_base.txt",
+      "hash": "67be47b69d62e4c32a2a52bbb90443cc1f7f039b411d113368d5b8fb2c1adeff",
+      "title": "Default 4.3 Filter settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "filter",
+        "filters",
+        "reset"
+      ],
+      "author": "Betaflight",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.3/leds/defaults.txt",
       "hash": "c1dc1b69bd7b001253f05b56f3f6c3d60e93615c718f30a3b815846f445d1f6c",
       "title": "Default 4.3 LED settings",
