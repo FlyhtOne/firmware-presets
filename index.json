@@ -152,7 +152,7 @@
       "Betaflight",
       "Chris Ward",
       "ctzsnooze",
-      "FlyhtONE",
+      "FlyhtOne",
       "sugarK",
       "UAV Tech (Mark Spatz)"
     ],
@@ -241,8 +241,8 @@
     },
     {
       "fullPath": "presets/4.3/filters/flyhtone_base.txt",
-      "hash": "67be47b69d62e4c32a2a52bbb90443cc1f7f039b411d113368d5b8fb2c1adeff",
-      "title": "Default 4.3 Filter settings",
+      "hash": "d94ad0901ece4d6f9a339f80d0a74604913c25ce4d1b832f6b532e6ab997cf3c",
+      "title": "FlyhtOne Filter settings",
       "firmware_version": [
         "4.3"
       ],
@@ -254,7 +254,7 @@
         "filters",
         "reset"
       ],
-      "author": "Betaflight",
+      "author": "FlyhtOne",
       "priority": 100
     },
     {
