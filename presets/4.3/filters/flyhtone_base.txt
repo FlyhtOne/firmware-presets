@@ -1,0 +1,14 @@
+#$ TITLE: Default 4.3 Filter settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: FILTERS
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, filter, filters, reset
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Resets Filter settings to 4.3 defaults
+
+# -- Gyro lowpass filters --
+set gyro_lpf1_static_hz = 0
+
+set gyro_lpf2_static_hz = 0
+
+
