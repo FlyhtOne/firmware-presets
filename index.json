@@ -310,10 +310,10 @@
     },
     {
       "fullPath": "presets/4.3/other/enable_gps.txt",
-      "hash": "4b2b4fceaed7bc9ab14c2594ed1b14ccc02beca8b9fc8a043443deb399153a82",
+      "hash": "19c9c3cf11ebcb34d49932d669866d25a0928637198c9f7b591e5becacabb4bf",
       "title": "Enable GPS",
       "firmware_version": [
-        "4.2"
+        "4.3"
       ],
       "category": "OTHER",
       "status": "EXPERIMENTAL",
