@@ -724,7 +724,22 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/tune/flyhtone_s1_v1.txt",
+      "fullPath": "presets/4.3/tune/FlyhtONE_Defaults.txt",
+      "hash": "c138f7d5da818372380ee07852edca721158302fd6ec781299d4f2cce1206b67",
+      "title": "FlyhtONE Base Defaults",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "FlyhtONE"
+      ],
+      "author": "FlyhtONE",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/FlyhtONE_S1_V1.txt",
       "hash": "34c7b914a455ef43ead0de3905b6f9b743607d35e98ee29e3191f46754552fc4",
       "title": "FlyhtONE TBS Source One V1",
       "firmware_version": [

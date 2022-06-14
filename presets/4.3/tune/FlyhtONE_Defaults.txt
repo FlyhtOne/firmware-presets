@@ -11,17 +11,16 @@
 
 #DSHOT 300
 set motor_pwm_protocol = DSHOT300
+#$ OPTION END
 
 #$ OPTION BEGIN (UNCHECKED): DSHOT 600
 
 #DSHOT 600
 set motor_pwm_protocol = DSHOT600
+#$ OPTION END
 
 set dyn_notch_count = 1
 set dyn_notch_q = 500
-set acc_calibration = -95,22,-272,1
-set mag_hardware = NONE
-set baro_hardware = NONE
 set min_throttle = 1070
 set dshot_bidir = ON
 set use_unsynced_pwm = OFF
